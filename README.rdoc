@@ -1,0 +1,4 @@
+== Rails3, Twitter Bootstrap, Devise, Cancan
+This is a app developed why following along to Daniel Kehoe's tutorial. 
+
+Am building it for the sole purpose of introducing myself to the combination of Devise and CanCan
